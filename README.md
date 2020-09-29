@@ -50,12 +50,12 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-tests]: https://img.shields.io/github/workflow/status/mvdnbrk/laravel-mollie-feedback/tests/main?label=tests&style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/mvdnbrk/laravel-mollie-feedback.svg?style=flat-square
-[ico-code-style]: https://github.styleci.io/repos/91986121/shield?style=flat-square&branch=main
+[ico-code-style]: https://github.styleci.io/repos/299622259/shield?style=flat-square&branch=main
 
 [link-packagist]: https://packagist.org/packages/mvdnbrk/laravel-mollie-feedback
 [link-tests]: https://github.com/mvdnbrk/laravel-mollie-feedback/actions?query=workflow%3Atests
 [link-downloads]: https://packagist.org/packages/mvdnbrk/laravel-mollie-feedback
-[link-code-style]: https://github.styleci.io/repos/91986121
+[link-code-style]: https://github.styleci.io/repos/299622259
 [link-author]: https://github.com/mvdnbrk
 [link-contributors]: ../../contributors
 [link-contributors]: ../../contributors
